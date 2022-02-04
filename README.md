@@ -1,3 +1,3 @@
 # Personal_portfolio
 
-# https://khizhnyaks.pythonanywhere.com/
+https://khizhnyaks.pythonanywhere.com/
